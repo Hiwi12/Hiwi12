@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Hiwi12
 - 👀 I’m interested in programing
 - 🌱 I’m currently learning software engineering
-- 💞️ I’m looking to collaborate with anybody who is willin to work on different kind of projects.
+- 💞️ I’m looking to collaborate with anybody who is willing to work on different kind of projects.
 - 📫 How to reach me by my email adress hiwotgkidan2@gmail.com
 
 <!---
